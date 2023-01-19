@@ -17,12 +17,14 @@
   - [Roadmaps](#roadmaps)
   - [Tips for coding interviews](#coding-interviews)
   - [Resources](#resources)
-
-
+    - [Courses](#courses)
+    - [Books](#books)
+    - [Other](#other)
 
 ## Contribution
 If you want to contribute to this repo, you can:
-- Make a Pull Request
+- Make a Pull Request (please follow commented guidelines in the file while editing)
+  - Please state what you changed briefly.
 - Fill this google [form](https://forms.gle/C4sXdiWQPtjGY13x6) (**Internship Contributions Only**)
 
 
@@ -111,7 +113,7 @@ Here you can find some resources that can help you in your journey to become a b
 - Navigation:
   - [***Courses***](#courses)
   - [***Books***](#books)
-  - [***More Resources***](#more-resources)
+  - [***Other***](#other)
 
 
 ##  Courses
@@ -150,7 +152,7 @@ Here you can find some resources that can help you in your journey to become a b
 <!-- ################################################################# -->
 </details>
 
-## More Resources  
+## Other  
 
 <details open> <summary>Click to expand</summary>
 
