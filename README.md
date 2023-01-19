@@ -49,7 +49,8 @@ Application Deadline: Add a date if available
 |[Microsoft - Multiple Internships](https://www.facebook.com/100070528599116/posts/pfbid029X2vpxvLiK1p4Q1kQFy1hAQwWbmhQnawPo8K8xsEmYvwfddzXTnDcPsCYopAmikMl/?mibextid=Nif5oz)|Cairo|Summer '23|February 15th, 2023|
 |[Tesla - SWE Intern](https://www.linkedin.com/jobs/view/3425567509/)|USA|Summer '23|-|
 |[Cohesity - SWE Intern](https://www.linkedin.com/jobs/view/3426707073/)|USA(Remote)|Summer '23|-|
-|[Bosch - ML Research Intern](https://www.linkedin.com/jobs/view/3429470351/)|USA(Remote)|Summer '23|-| 
+|[Bosch - ML Research Intern](https://www.linkedin.com/jobs/view/3429470351/)|USA(Remote)|Summer '23|-|
+|[Amazon - SWE Intern](https://www.linkedin.com/jobs/view/3425567509/](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship))|Cairo|Summer '23|-|  
 
 
 <!-- END OF TABLE -->
@@ -100,8 +101,8 @@ Some of the internships may require a technical interview. Here you can find som
 - [***Coding Interview University***](https://github.com/jwasham/coding-interview-university)
 - [***Cracking the Coding Interview***](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) 📖
 - [***System Design***](https://github.com/InterviewReady/system-design-resources)
-
-
+- [***CS Lectures***](https://github.com/Developer-Y/cs-video-courses)
+  
 <!-- END OF List -->
 <!-- ################################################################# -->
 </details>
@@ -131,7 +132,6 @@ Here you can find some resources that can help you in your journey to become a b
 | Name  |  Description |
 |---|-------------|
 |[***Machine Intelligence***](https://www.youtube.com/playlist?list=PLTWMfSykrrxfwhr-DdvX2Yzt8gNoILCFA)|A Machine Intelligence Course by Hamid Tizhoosh, Waterloo|
-
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
 </details>
@@ -146,6 +146,7 @@ Here you can find some resources that can help you in your journey to become a b
 | Name  |  Description |
 |---|-------------|
 |[***Clean Code***](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)|A book by Robert C. Martin about how to improve your code writing.|
+|[***Head First Object-Oriented Analysis and Design***](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)|A Book About OOP and Design|  
 
 
 <!-- END OF TABLE -->
@@ -161,7 +162,8 @@ Here you can find some resources that can help you in your journey to become a b
 
 | Name  |  Description |
 |---|-------------|
-|[Example](example)|Example|
+|[Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643&range=B250)|competitive programming sheet + Roadmap|
+|[Useful Github Rep.](https://aatmaj-zephyr.github.io/A-collection-of-useful-repositories/)|Useful Repositories|
 
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
