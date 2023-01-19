@@ -50,7 +50,7 @@ Application Deadline: Add a date if available
 |[Tesla - SWE Intern](https://www.linkedin.com/jobs/view/3425567509/)|USA|Summer '23|-|
 |[Cohesity - SWE Intern](https://www.linkedin.com/jobs/view/3426707073/)|USA(Remote)|Summer '23|-|
 |[Bosch - ML Research Intern](https://www.linkedin.com/jobs/view/3429470351/)|USA(Remote)|Summer '23|-|
-|[Amazon - SWE Intern](https://www.linkedin.com/jobs/view/3425567509/](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship))|Cairo|Summer '23|-|  
+|[Amazon - SWE Intern](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)|Cairo|Summer '23|-|  
 
 
 <!-- END OF TABLE -->
@@ -76,6 +76,7 @@ Roadmaps in each field. You can use them as a guide to learn the required skills
 - [Backend Roadmap](https://roadmap.sh/backend) 
 - [AI Expert](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [Game Development](https://github.com/utilForever/game-developer-roadmap)
+- [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap)
 
 
 <!-- END OF List -->
@@ -102,6 +103,7 @@ Some of the internships may require a technical interview. Here you can find som
 - [***Cracking the Coding Interview***](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) 📖
 - [***System Design***](https://github.com/InterviewReady/system-design-resources)
 - [***CS Lectures***](https://github.com/Developer-Y/cs-video-courses)
+- [***live interviews***](https://interviewing.io/)
   
 <!-- END OF List -->
 <!-- ################################################################# -->
