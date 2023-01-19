@@ -51,6 +51,17 @@ Application Deadline: Add a date if available
 |[Cohesity - SWE Intern](https://www.linkedin.com/jobs/view/3426707073/)|USA(Remote)|Summer '23|-|
 |[Bosch - ML Research Intern](https://www.linkedin.com/jobs/view/3429470351/)|USA(Remote)|Summer '23|-|
 |[Amazon - SWE Intern](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)|Cairo|Summer '23|-|  
+|[Bosch - ML Research Intern](https://www.linkedin.com/jobs/view/3429470351/)|USA(Remote)|Summer '23|-| 
+|[Orange - Multiple Internships](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0)|Cairo(Remote)|Summer '23|-|
+|[MLH Fellowship](https://fellowship.mlh.io/)|USA(Remote)|Summer '23|March 6th, 2023|
+|[Corporatica - ML Intern](https://www.linkedin.com/feed/update/urn:li:activity:6942460499934482436/)|Remote|Summer '23|-|
+|[Corporatica - SWE Intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM)|Remote|Summer '23|-|
+|[Cohere - ML Intern](https://www.linkedin.com/jobs/view/3445138172)|USA(Hybrid)|Summer '23|-|
+|[Motorola Solutions - SWE Intern](https://www.linkedin.com/jobs/view/3445301086)|USA(Hybrid)|Summer '23|-|
+|[NVIDIA - Security SWE Intern](https://www.linkedin.com/jobs/view/3444392732)|USA|Summer '23|-|
+|[Veritas Technologies LLC - SWE Intern](https://www.linkedin.com/jobs/view/3445301676)|USA|Summer '23|-|
+|[TMobile - Data Engineering Intern](https://www.linkedin.com/jobs/view/3441870940)|USA|Summer '23|-|
+|[OPPO - Research Intern (ML,CV,NLP)](https://www.linkedin.com/jobs/view/3433181415)|USA|Summer '23|-|
 
 
 <!-- END OF TABLE -->
@@ -72,11 +83,11 @@ Roadmaps in each field. You can use them as a guide to learn the required skills
 <!-- ################################################################# -->
 <!-- START OF LIST -->
 
-- [Frontend Roadmap](https://roadmap.sh/frontend) 
-- [Backend Roadmap](https://roadmap.sh/backend) 
-- [AI Expert](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-- [Game Development](https://github.com/utilForever/game-developer-roadmap)
-- [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap)
+- [***Frontend Roadmap***](https://roadmap.sh/frontend) 
+- [***Backend Roadmap***](https://roadmap.sh/backend) 
+- [***AI Expert***](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+- [***Game Development***](https://github.com/utilForever/game-developer-roadmap)
+- [***DevOps Roadmap***](https://github.com/milanm/DevOps-Roadmap)
 
 
 <!-- END OF List -->
@@ -125,7 +136,7 @@ Here you can find some resources that can help you in your journey to become a b
 
 <!-- Add with same format as below example:
 
-|[***Machine Intelligence***](https://www.youtube.com/playlist?list=PLTWMfSykrrxfwhr-DdvX2Yzt8gNoILCFA)|A Machine Intelligence Course by Hamid Tizhoosh, Waterloo| -->
+|[Machine Intelligence](https://www.youtube.com/playlist?list=PLTWMfSykrrxfwhr-DdvX2Yzt8gNoILCFA)|A Machine Intelligence Course by Hamid Tizhoosh, Waterloo| -->
 <!-- Please write a description for the course to help other people navigate through the list. -->
 
 <!-- ################################################################# -->
@@ -133,7 +144,10 @@ Here you can find some resources that can help you in your journey to become a b
 
 | Name  |  Description |
 |---|-------------|
-|[***Machine Intelligence***](https://www.youtube.com/playlist?list=PLTWMfSykrrxfwhr-DdvX2Yzt8gNoILCFA)|A Machine Intelligence Course by Hamid Tizhoosh, Waterloo|
+|[Machine Intelligence](https://www.youtube.com/playlist?list=PLTWMfSykrrxfwhr-DdvX2Yzt8gNoILCFA)|A Machine Intelligence Course by Hamid Tizhoosh, Waterloo|
+|[Node.Js (Arabic)](https://www.youtube.com/playlist?list=PLeWmXrh0047991IDIBFxKZlzURscnf3t8)|An Extensive Node.Js Course in Egyptian Arabic|
+|[React JS (Arabic)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEjXWZmwkOV-vfXmrEEsuEW)|A React JS Course in Egyptian Arabic that covers fundamentals of React JS (Prerequisites:HTML,CSS,JS Basics)|
+
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
 </details>
@@ -147,9 +161,10 @@ Here you can find some resources that can help you in your journey to become a b
 
 | Name  |  Description |
 |---|-------------|
-|[***Clean Code***](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)|A book by Robert C. Martin about how to improve your code writing.|
-|[***Head First Object-Oriented Analysis and Design***](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)|A Book About OOP and Design|  
-
+|[Clean Code](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)|A book by Robert C. Martin about how to improve your code writing.|
+|[Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)|A Book About OOP and Design|  
+|[Probability Theory](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)|A book by Jaynes about probability theory.|
+|[Deep Learning](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf)|A book by Ian Goodfellow, Yoshua Bengio, and Aaron Courville about deep learning.|
 
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
