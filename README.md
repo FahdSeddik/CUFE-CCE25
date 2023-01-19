@@ -53,7 +53,7 @@ Application Deadline: Add a date if available
 |[Amazon - SWE Intern](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)|Cairo|Summer '23|-|  
 |[Bosch - ML Research Intern](https://www.linkedin.com/jobs/view/3429470351/)|USA(Remote)|Summer '23|-| 
 |[Orange - Multiple Internships](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0)|Cairo(Remote)|Summer '23|-|
-|[MLH Fellowship](https://fellowship.mlh.io/)|USA(Remote)|Summer '23|March 6th, 2023|
+|[MLH Fellowship](https://fellowship.mlh.io/)|USA(Remote)|Summer '23,Winter '23|March 6th, 2023, Winter CLOSED|
 |[Corporatica - ML Intern](https://www.linkedin.com/feed/update/urn:li:activity:6942460499934482436/)|Remote|Summer '23|-|
 |[Corporatica - SWE Intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM)|Remote|Summer '23|-|
 |[Cohere - ML Intern](https://www.linkedin.com/jobs/view/3445138172)|USA(Hybrid)|Summer '23|-|
@@ -62,7 +62,7 @@ Application Deadline: Add a date if available
 |[Veritas Technologies LLC - SWE Intern](https://www.linkedin.com/jobs/view/3445301676)|USA|Summer '23|-|
 |[TMobile - Data Engineering Intern](https://www.linkedin.com/jobs/view/3441870940)|USA|Summer '23|-|
 |[OPPO - Research Intern (ML,CV,NLP)](https://www.linkedin.com/jobs/view/3433181415)|USA|Summer '23|-|
-
+|[Atomica - SWE Intern C++](https://wuzzuf.net/internship/Ur90gZRLo4PS-C-Software-Engineering-Intern-Atomica-Cairo-Egypt)|Cairo|Summer '23|-|
 
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
