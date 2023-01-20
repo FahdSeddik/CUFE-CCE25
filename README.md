@@ -63,6 +63,8 @@ Application Deadline: Add a date if available
 |[TMobile - Data Engineering Intern](https://www.linkedin.com/jobs/view/3441870940)|USA|Summer '23|-|
 |[OPPO - Research Intern (ML,CV,NLP)](https://www.linkedin.com/jobs/view/3433181415)|USA|Summer '23|-|
 |[Atomica - SWE Intern C++](https://wuzzuf.net/internship/Ur90gZRLo4PS-C-Software-Engineering-Intern-Atomica-Cairo-Egypt)|Cairo|Summer '23|-|
+|[Spotify - ML Engineering Intern](https://www.linkedin.com/jobs/view/3443703036)|USA(Remote)|Summer '23|February 9th, 2023|
+|[Technolabs Softwares - Data Scientist Intern](https://www.linkedin.com/posts/technocolabs_data-scientist-interns-activity-7022163842000433152-ll2t?utm_source=share&utm_medium=member_desktop)|Not Mentioned|Not Mentioned|-|
 
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
