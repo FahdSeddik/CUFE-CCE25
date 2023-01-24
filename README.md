@@ -65,6 +65,7 @@ Application Deadline: Add a date if available
 |[Atomica - SWE Intern C++](https://wuzzuf.net/internship/Ur90gZRLo4PS-C-Software-Engineering-Intern-Atomica-Cairo-Egypt)|Cairo|Summer '23|-|
 |[Spotify - ML Engineering Intern](https://www.linkedin.com/jobs/view/3443703036)|USA(Remote)|Summer '23|February 9th, 2023|
 |[Technolabs Softwares - Data Scientist Intern](https://www.linkedin.com/posts/technocolabs_data-scientist-interns-activity-7022163842000433152-ll2t?utm_source=share&utm_medium=member_desktop)|Not Mentioned|Not Mentioned|-|
+|[Garafana Labs - Engineering Intern Program](https://www.linkedin.com/jobs/view/3392126599/)|EMEA(Remote)|Note Mentioned|-|
 
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
