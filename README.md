@@ -91,7 +91,7 @@ Roadmaps in each field. You can use them as a guide to learn the required skills
 - [***AI Expert***](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [***Game Development***](https://github.com/utilForever/game-developer-roadmap)
 - [***DevOps Roadmap***](https://github.com/milanm/DevOps-Roadmap)
-
+- [***CP Roadmap***](https://docs.google.com/document/d/1-7Co93b504uyXyMjjE8bnLJP3d3QXvp_m1UjvbvdR2Y/edit)
 
 <!-- END OF List -->
 <!-- ################################################################# -->
@@ -118,6 +118,7 @@ Some of the internships may require a technical interview. Here you can find som
 - [***System Design***](https://github.com/InterviewReady/system-design-resources)
 - [***CS Lectures***](https://github.com/Developer-Y/cs-video-courses)
 - [***live interviews***](https://interviewing.io/)
+- [***Front End interview coding problems***](https://bigfrontend.dev/problem)
   
 <!-- END OF List -->
 <!-- ################################################################# -->
@@ -150,7 +151,7 @@ Here you can find some resources that can help you in your journey to become a b
 |[Machine Intelligence](https://www.youtube.com/playlist?list=PLTWMfSykrrxfwhr-DdvX2Yzt8gNoILCFA)|A Machine Intelligence Course by Hamid Tizhoosh, Waterloo|
 |[Node.Js (Arabic)](https://www.youtube.com/playlist?list=PLeWmXrh0047991IDIBFxKZlzURscnf3t8)|An Extensive Node.Js Course in Egyptian Arabic|
 |[React JS (Arabic)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEjXWZmwkOV-vfXmrEEsuEW)|A React JS Course in Egyptian Arabic that covers fundamentals of React JS (Prerequisites:HTML,CSS,JS Basics)|
-
+|[(Algorithm-Design))](https://www.hiredintech.com/classrooms/algorithm-design/lesson/79)|An Explanation for Algorithms|
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
 </details>
@@ -184,6 +185,10 @@ Here you can find some resources that can help you in your journey to become a b
 |---|-------------|
 |[Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643&range=B250)|competitive programming sheet + Roadmap|
 |[Useful Github Rep.](https://aatmaj-zephyr.github.io/A-collection-of-useful-repositories/)|Useful Repositories|
+|[Awesome-Resources](https://shahednasser.github.io/awesome-resources/)|Useful Resources|
+|[Articles](https://dev.to/)|Developers Community articles|
+|[Algorithms-Implementation](https://github.com/ShahjalalShohag/code-library)|Implementations of most of CP Algorithims|
+
 
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
