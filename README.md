@@ -152,6 +152,7 @@ Here you can find some resources that can help you in your journey to become a b
 |[Node.Js (Arabic)](https://www.youtube.com/playlist?list=PLeWmXrh0047991IDIBFxKZlzURscnf3t8)|An Extensive Node.Js Course in Egyptian Arabic|
 |[React JS (Arabic)](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEjXWZmwkOV-vfXmrEEsuEW)|A React JS Course in Egyptian Arabic that covers fundamentals of React JS (Prerequisites:HTML,CSS,JS Basics)|
 |[(Algorithm-Design))](https://www.hiredintech.com/classrooms/algorithm-design/lesson/79)|An Explanation for Algorithms|
+|[(Web Development for Beginners))](https://github.com/microsoft/Web-Dev-For-Beginners)|Web Course by Microsoft|
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
 </details>
