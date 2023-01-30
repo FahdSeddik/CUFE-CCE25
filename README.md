@@ -66,8 +66,9 @@ Application Deadline: Add a date if available
 |[Spotify - ML Engineering Intern](https://www.linkedin.com/jobs/view/3443703036)|USA(Remote)|Summer '23|February 9th, 2023|
 |[Technolabs Softwares - Data Scientist Intern](https://www.linkedin.com/posts/technocolabs_data-scientist-interns-activity-7022163842000433152-ll2t?utm_source=share&utm_medium=member_desktop)|Not Mentioned|Not Mentioned|-|
 |[Garafana Labs - Engineering Intern Program](https://www.linkedin.com/jobs/view/3392126599/)|EMEA(Remote)|Not Mentioned|-|
-|[Didi - Intern](https://www.linkedin.com/jobs/view/3456421374/)|Cairo|Not Mentioned|Not Mentioned|
-
+|[Didi - Intern](https://www.linkedin.com/jobs/view/3456421374/)|Cairo|Not Mentioned|-|
+|[Visual and AI Solutions (VAIS) - ML Intern](https://www.linkedin.com/jobs/view/3456820683)|Cairo|Not Mentioned|-|
+|[Garafana Labs - Security Intern Program](https://www.linkedin.com/jobs/view/3381860942)|EMEA(Remote)|2023|-|
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
 </details>
