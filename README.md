@@ -65,7 +65,8 @@ Application Deadline: Add a date if available
 |[Atomica - SWE Intern C++](https://wuzzuf.net/internship/Ur90gZRLo4PS-C-Software-Engineering-Intern-Atomica-Cairo-Egypt)|Cairo|Summer '23|-|
 |[Spotify - ML Engineering Intern](https://www.linkedin.com/jobs/view/3443703036)|USA(Remote)|Summer '23|February 9th, 2023|
 |[Technolabs Softwares - Data Scientist Intern](https://www.linkedin.com/posts/technocolabs_data-scientist-interns-activity-7022163842000433152-ll2t?utm_source=share&utm_medium=member_desktop)|Not Mentioned|Not Mentioned|-|
-|[Garafana Labs - Engineering Intern Program](https://www.linkedin.com/jobs/view/3392126599/)|EMEA(Remote)|Note Mentioned|-|
+|[Garafana Labs - Engineering Intern Program](https://www.linkedin.com/jobs/view/3392126599/)|EMEA(Remote)|Not Mentioned|-|
+|[Didi - Intern](https://www.linkedin.com/jobs/view/3456421374/)|Cairo|Not Mentioned|Not Mentioned|
 
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
@@ -81,7 +82,7 @@ Roadmaps in each field. You can use them as a guide to learn the required skills
 <details open> <summary>Click to expand</summary>
 
 <!-- Add with same format as below example:
-[Frontend Roadmap](https://roadmap.sh/frontend) -->
+[***Frontend Roadmap***](https://roadmap.sh/frontend) -->
 
 <!-- ################################################################# -->
 <!-- START OF LIST -->
@@ -117,7 +118,7 @@ Some of the internships may require a technical interview. Here you can find som
 - [***Cracking the Coding Interview***](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) 📖
 - [***System Design***](https://github.com/InterviewReady/system-design-resources)
 - [***CS Lectures***](https://github.com/Developer-Y/cs-video-courses)
-- [***live interviews***](https://interviewing.io/)
+- [***Live Interviews***](https://interviewing.io/)
 - [***Front End interview coding problems***](https://bigfrontend.dev/problem)
   
 <!-- END OF List -->
