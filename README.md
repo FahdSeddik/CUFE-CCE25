@@ -59,6 +59,7 @@ Application Deadline: Add a date if available
 |[Atomica - SWE Intern C++](https://wuzzuf.net/internship/Ur90gZRLo4PS-C-Software-Engineering-Intern-Atomica-Cairo-Egypt)|Cairo|Summer '23|-|
 |[Technolabs Softwares - Data Scientist Intern](https://www.linkedin.com/posts/technocolabs_data-scientist-interns-activity-7022163842000433152-ll2t?utm_source=share&utm_medium=member_desktop)|Not Mentioned|Not Mentioned|-|
 |[Didi - Intern](https://www.linkedin.com/jobs/view/3456421374/)|Cairo|Not Mentioned|-|
+|[Garafana Labs - SWE Intern BI](https://www.linkedin.com/jobs/view/3402657487)|EMEA(Remote)|Summer '23|-|
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
 </details>
