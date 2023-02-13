@@ -47,8 +47,6 @@ Application Deadline: Add a date if available
 | Name  |  Location |  Time | Application Deadline |
 |---|---|-------------|--|
 |[Microsoft - Multiple Internships](https://www.facebook.com/100070528599116/posts/pfbid029X2vpxvLiK1p4Q1kQFy1hAQwWbmhQnawPo8K8xsEmYvwfddzXTnDcPsCYopAmikMl/?mibextid=Nif5oz)|Cairo|Summer '23|February 15th, 2023|
-|[Tesla - SWE Intern](https://www.linkedin.com/jobs/view/3425567509/)|USA|Summer '23|-|
-|[Cohesity - SWE Intern](https://www.linkedin.com/jobs/view/3426707073/)|USA(Remote)|Summer '23|-|
 |[Bosch - ML Research Intern](https://www.linkedin.com/jobs/view/3429470351/)|USA(Remote)|Summer '23|-|
 |[Amazon - SWE Intern](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)|Cairo|Summer '23|-|  
 |[Bosch - ML Research Intern](https://www.linkedin.com/jobs/view/3429470351/)|USA(Remote)|Summer '23|-| 
@@ -56,19 +54,11 @@ Application Deadline: Add a date if available
 |[MLH Fellowship](https://fellowship.mlh.io/)|USA(Remote)|Summer '23|March 6th, 2023|
 |[Corporatica - ML Intern](https://www.linkedin.com/feed/update/urn:li:activity:6942460499934482436/)|Remote|Summer '23|-|
 |[Corporatica - SWE Intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM)|Remote|Summer '23|-|
-|[Cohere - ML Intern](https://www.linkedin.com/jobs/view/3445138172)|USA(Hybrid)|Summer '23|-|
 |[Motorola Solutions - SWE Intern](https://www.linkedin.com/jobs/view/3445301086)|USA(Hybrid)|Summer '23|-|
-|[NVIDIA - Security SWE Intern](https://www.linkedin.com/jobs/view/3444392732)|USA|Summer '23|-|
-|[Veritas Technologies LLC - SWE Intern](https://www.linkedin.com/jobs/view/3445301676)|USA|Summer '23|-|
 |[TMobile - Data Engineering Intern](https://www.linkedin.com/jobs/view/3441870940)|USA|Summer '23|-|
-|[OPPO - Research Intern (ML,CV,NLP)](https://www.linkedin.com/jobs/view/3433181415)|USA|Summer '23|-|
 |[Atomica - SWE Intern C++](https://wuzzuf.net/internship/Ur90gZRLo4PS-C-Software-Engineering-Intern-Atomica-Cairo-Egypt)|Cairo|Summer '23|-|
-|[Spotify - ML Engineering Intern](https://www.linkedin.com/jobs/view/3443703036)|USA(Remote)|Summer '23|February 9th, 2023|
 |[Technolabs Softwares - Data Scientist Intern](https://www.linkedin.com/posts/technocolabs_data-scientist-interns-activity-7022163842000433152-ll2t?utm_source=share&utm_medium=member_desktop)|Not Mentioned|Not Mentioned|-|
-|[Garafana Labs - Engineering Intern Program](https://www.linkedin.com/jobs/view/3392126599/)|EMEA(Remote)|Not Mentioned|-|
 |[Didi - Intern](https://www.linkedin.com/jobs/view/3456421374/)|Cairo|Not Mentioned|-|
-|[Visual and AI Solutions (VAIS) - ML Intern](https://www.linkedin.com/jobs/view/3456820683)|Cairo|Not Mentioned|-|
-|[Garafana Labs - Security Intern Program](https://www.linkedin.com/jobs/view/3381860942)|EMEA(Remote)|2023|-|
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
 </details>
