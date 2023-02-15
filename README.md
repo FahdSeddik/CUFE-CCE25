@@ -46,6 +46,7 @@ Application Deadline: Add a date if available
 
 | Name  |  Location |  Time | Application Deadline |
 |---|---|-------------|--|
+|[IBM - Application Developer (Mobile)](https://careers.ibm.com/job/17796286/application-developer-mobile-internship-cairo-eg/?codes=JB_Indeed)|Cairo|Summer '23|-|
 |[Microsoft - Multiple Internships](https://www.facebook.com/100070528599116/posts/pfbid029X2vpxvLiK1p4Q1kQFy1hAQwWbmhQnawPo8K8xsEmYvwfddzXTnDcPsCYopAmikMl/?mibextid=Nif5oz)|Cairo|Summer '23|February 15th, 2023|
 |[Bosch - ML Research Intern](https://www.linkedin.com/jobs/view/3429470351/)|USA(Remote)|Summer '23|-|
 |[Amazon - SWE Intern](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)|Cairo|Summer '23|-|  
