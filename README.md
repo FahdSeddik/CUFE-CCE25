@@ -48,6 +48,7 @@ Application Deadline: Add a date if available
 |---|---|-------------|--|
 |[Google - Multiple Internships](https://careers.google.com/jobs/results/?degree=BACHELORS&distance=50&employment_type=INTERN)|-|-|-|
 |[Emarat Al-Ard reseach Insitute - Multiple Internships](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform)|-|-|-|
+|[The Sparks Foundation - GRIP](https://internship.thesparksfoundation.info/#steps-to-apply)|Remote|-|-|
 |[Raisa Energy - Data Science](https://docs.google.com/forms/d/e/1FAIpQLSewvsV_blQdHIbFuRMWnrxCeyROolzEQ-mpOsmlwK9SFmCi5Q/viewform?fbzx=3768006386583190091)|-|-|-|
 |[Codeaza Technologies - Multiple Internships](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/)|Remote|Summer '23|-|
 |[Jumia - SW Engineer Intern](https://www.linkedin.com/jobs/view/3500402294/)|Cairo|Summer '23|-|
@@ -64,6 +65,8 @@ Application Deadline: Add a date if available
 |[Technolabs Softwares - Data Scientist Intern](https://www.linkedin.com/posts/technocolabs_data-scientist-interns-activity-7022163842000433152-ll2t?utm_source=share&utm_medium=member_desktop)|Not Mentioned|Not Mentioned|-|
 |[Didi - Intern](https://www.linkedin.com/jobs/view/3456421374/)|Cairo|Not Mentioned|-|
 |[Garafana Labs - SWE Intern BI](https://www.linkedin.com/jobs/view/3402657487)|EMEA(Remote)|Summer '23|-|
+|[LeetCode - Full stack Intern](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)|-|Summer '23|-|
+|[Open-Source Internship Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)|-|-|-|
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
 </details>
@@ -186,8 +189,8 @@ Here you can find some resources that can help you in your journey to become a b
 |[Awesome-Resources](https://shahednasser.github.io/awesome-resources/)|Useful Resources|
 |[Articles](https://dev.to/)|Developers Community articles|
 |[Algorithms-Implementation](https://github.com/ShahjalalShohag/code-library)|Implementations of most of CP Algorithims|
-
-
+|[Career Resources](https://github.com/anna-yn/career-resources)|Some SWE/PM/Designer related career resources for students|
+|[Crack your internship](https://justpaste.it/goodinternship)|A list of resources for cracking your internship|
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
 </details>
