@@ -47,24 +47,16 @@ Application Deadline: Add a date if available
 | Name  |  Location |  Time | Application Deadline |
 |---|---|-------------|--|
 |[Google - Multiple Internships](https://careers.google.com/jobs/results/?degree=BACHELORS&distance=50&employment_type=INTERN)|-|-|-|
-|[Emarat Al-Ard reseach Insitute - Multiple Internships](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform)|-|-|-|
+|[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | - | - |
+|[Blink22](https://blink22.com/) | Cairo | - | - |
+|[MaxAB - Backend Intern](https://careers.maxab.io/p/fe62b37ca71d-edge-internship-program-backend-development) | Cairo | - | - |
+|[MaxAB - Frontend Intern](https://careers.maxab.io/p/70bc6e9293a8-edge-internship-program-frontend-development) | Cairo | - | - |
 |[The Sparks Foundation - GRIP](https://internship.thesparksfoundation.info/#steps-to-apply)|Remote|-|-|
-|[Raisa Energy - Data Science](https://docs.google.com/forms/d/e/1FAIpQLSewvsV_blQdHIbFuRMWnrxCeyROolzEQ-mpOsmlwK9SFmCi5Q/viewform?fbzx=3768006386583190091)|-|-|-|
-|[Codeaza Technologies - Multiple Internships](https://www.linkedin.com/feed/update/urn:li:activity:6941731943004672001/)|Remote|Summer '23|-|
-|[Jumia - SW Engineer Intern](https://www.linkedin.com/jobs/view/3500402294/)|Cairo|Summer '23|-|
-|[Money Fellows - Frontend Engineer Intern](https://www.linkedin.com/jobs/view/3495980837)|Cairo|Summer '23|-|
-|[Money Fellows - Devops Engineer Intern](https://www.linkedin.com/jobs/view/3495982433)|Cairo|Summer '23|-|
-|[Money Fellows - Backend Engineer Intern](https://www.linkedin.com/jobs/view/3495982547)|Cairo|Summer '23|-|
-|[Money Fellows - Full Stack Engineer Intern](https://www.linkedin.com/jobs/view/3495980762/)|Cairo|Summer '23|-|
 |[Amazon - SWE Intern](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)|Cairo|Summer '23|-|  
 |[Orange - Multiple Internships](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0)|Cairo(Remote)|Summer '23|-|
 |[MLH Fellowship](https://fellowship.mlh.io/)|USA(Remote)|Summer '23|March 6th, 2023|
 |[Corporatica - ML Intern](https://www.linkedin.com/feed/update/urn:li:activity:6942460499934482436/)|Remote|Summer '23|-|
 |[Corporatica - SWE Intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM)|Remote|Summer '23|-|
-|[Motorola Solutions - SWE Intern](https://www.linkedin.com/jobs/view/3445301086)|USA(Hybrid)|Summer '23|-|
-|[Technolabs Softwares - Data Scientist Intern](https://www.linkedin.com/posts/technocolabs_data-scientist-interns-activity-7022163842000433152-ll2t?utm_source=share&utm_medium=member_desktop)|Not Mentioned|Not Mentioned|-|
-|[Didi - Intern](https://www.linkedin.com/jobs/view/3456421374/)|Cairo|Not Mentioned|-|
-|[Garafana Labs - SWE Intern BI](https://www.linkedin.com/jobs/view/3402657487)|EMEA(Remote)|Summer '23|-|
 |[LeetCode - Full stack Intern](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)|-|Summer '23|-|
 |[Open-Source Internship Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)|-|-|-|
 <!-- END OF TABLE -->
