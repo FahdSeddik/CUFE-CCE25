@@ -54,7 +54,7 @@ Application Deadline: Add a date if available
 |[The Sparks Foundation - GRIP](https://internship.thesparksfoundation.info/#steps-to-apply)|Remote|-|-|
 |[Amazon - SWE Intern](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)|Cairo|Summer '23|-|  
 |[Orange - Multiple Internships](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0)|Cairo(Remote)|Summer '23|-|
-|[MLH Fellowship](https://fellowship.mlh.io/)|USA(Remote)|Summer '23|March 6th, 2023|
+|[MLH Fellowship](https://fellowship.mlh.io/)|USA(Remote)|Summer '23| - |
 |[Corporatica - ML Intern](https://www.linkedin.com/feed/update/urn:li:activity:6942460499934482436/)|Remote|Summer '23|-|
 |[Corporatica - SWE Intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM)|Remote|Summer '23|-|
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | - | - |
