@@ -57,6 +57,9 @@ Application Deadline: Add a date if available
 |[MLH Fellowship](https://fellowship.mlh.io/)|USA(Remote)|Summer '23|March 6th, 2023|
 |[Corporatica - ML Intern](https://www.linkedin.com/feed/update/urn:li:activity:6942460499934482436/)|Remote|Summer '23|-|
 |[Corporatica - SWE Intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM)|Remote|Summer '23|-|
+|[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | - | - |
+|[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | - | - |
+|[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | - | - |
 |[LeetCode - Full stack Intern](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)|-|Summer '23|-|
 |[Open-Source Internship Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)|-|-|-|
 <!-- END OF TABLE -->
