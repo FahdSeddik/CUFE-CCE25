@@ -46,7 +46,9 @@ Application Deadline: Add a date if available
 
 | Name  |  Location | More Info |
 |---|---|--|
-|[Internship Sheet](https://docs.google.com/spreadsheets/d/1eU__AI8QbAp8Ze0HmrKvp44N1SZe9gz5miI-FYUC_-E/edit#gid=0) | - | Contains Internship links collected from GUC Job Fair |
+|[Internship Google Doc Sheet](https://docs.google.com/document/u/1/d/1gGqoqbfllCDSLWIR_1FIlPJEO7Y0e30AL-jyu3pcc-0/mobilebasic) | - | Contains Internship links for all internship positions 100+ |
+|[Internship Excel Sheet](https://docs.google.com/spreadsheets/d/1eU__AI8QbAp8Ze0HmrKvp44N1SZe9gz5miI-FYUC_-E/edit#gid=0) | - | Contains Internship links collected from GUC Job Fair |
+|[Advansys - Internship Program](https://www.linkedin.com/posts/advansys-esc_advansys-is-delighted-to-announce-the-launch-activity-7066730130269704192-lCNf/?utm_source=share&utm_medium=member_android) | - | - |
 |[P&G - Multiple Internships](https://www.pgcareers.com/?fbclid=IwAR25H-hETjEwCFpUdKrr68hlKDZjW6zxuSsnmgbVr5_5BsgFliy3cLF0230) | - | - |
 |[ITIDA - Multiple Internships](https://www.itida.gov.eg/arabic/Programs/StudentSummerTraining/Pages/default.aspx?fbclid=IwAR2WZAhgkwe52v078mSRamYM1xX9xsQKsSw_fQ0jbLNnFE640YoSRAa2vdU) | Cairo | - |
 |[Dsquares - Summer Program](https://dsquares.recruitee.com/o/dsquares-juniors-unlock-your-potential-summer-internship-program/c/new?source=LinkedIn) | Cairo | - |
@@ -56,7 +58,7 @@ Application Deadline: Add a date if available
 |[MOZN.AI - CyberSecurity Intern](https://apply.workable.com/mozn-ai/j/E08E7F4243/) | Saudi Arabia | - |
 |[MOZN.AI - Data Science Intern](https://apply.workable.com/mozn-ai/j/CFBE17AE6D/) | Saudi Arabia | - |
 |[Google - Multiple Internships](https://careers.google.com/jobs/results/?degree=BACHELORS&distance=50&employment_type=INTERN)|-|-|
-|[Synapse Analytics - Multiple Positions](https://synapseanalytics.recruitee.com) | - | - |
+|[Synapse Analytics - Multiple Positions](https://synapseanalytics.recruitee.com) | Cairo | - |
 |[Coformatique - Multiple Interns](https://coformatique.zohorecruit.com/jobs/Careers) | - | - |
 |[VOIS - Explore Youth Internship](https://opportunities.vodafone.com/job/Cairo-Explore-Youth-Internship-_VOIS/937998701/) | Cairo | - |
 |[Banque du Caire  - Summer Intern](https://www.linkedin.com/jobs/view/3620595381/) | Cairo | - |
