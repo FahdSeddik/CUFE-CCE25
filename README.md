@@ -46,9 +46,21 @@ Application Deadline: Add a date if available
 
 | Name  |  Location | More Info |
 |---|---|--|
+|[Internship Sheet](https://docs.google.com/spreadsheets/d/1eU__AI8QbAp8Ze0HmrKvp44N1SZe9gz5miI-FYUC_-E/edit#gid=0) | - | Contains Internship links collected from GUC Job Fair |
+|[P&G - Multiple Internships](https://www.pgcareers.com/?fbclid=IwAR25H-hETjEwCFpUdKrr68hlKDZjW6zxuSsnmgbVr5_5BsgFliy3cLF0230) | - | - |
+|[ITIDA - Multiple Internships](https://www.itida.gov.eg/arabic/Programs/StudentSummerTraining/Pages/default.aspx?fbclid=IwAR2WZAhgkwe52v078mSRamYM1xX9xsQKsSw_fQ0jbLNnFE640YoSRAa2vdU) | Cairo | - |
+|[Dsquares - Summer Program](https://dsquares.recruitee.com/o/dsquares-juniors-unlock-your-potential-summer-internship-program/c/new?source=LinkedIn) | Cairo | - |
+|[iNetwork - Summer Program](https://www.linkedin.com/feed/update/urn:li:activity:7063834685923110912/) | - | - |
+|[Nokia](https://www.linkedin.com/jobs/view/3609473219/) | Cairo | 3-month Fresh Graduates Internship | 
+|[MOZN.AI - IT Support Intern](https://apply.workable.com/mozn-ai/j/FE2C1ADEDB/) | Saudi Arabia | - |
+|[MOZN.AI - CyberSecurity Intern](https://apply.workable.com/mozn-ai/j/E08E7F4243/) | Saudi Arabia | - |
+|[MOZN.AI - Data Science Intern](https://apply.workable.com/mozn-ai/j/CFBE17AE6D/) | Saudi Arabia | - |
 |[Google - Multiple Internships](https://careers.google.com/jobs/results/?degree=BACHELORS&distance=50&employment_type=INTERN)|-|-|
 |[Synapse Analytics - Multiple Positions](https://synapseanalytics.recruitee.com) | - | - |
 |[Coformatique - Multiple Interns](https://coformatique.zohorecruit.com/jobs/Careers) | - | - |
+|[VOIS - Explore Youth Internship](https://opportunities.vodafone.com/job/Cairo-Explore-Youth-Internship-_VOIS/937998701/) | Cairo | - |
+|[Banque du Caire  - Summer Intern](https://www.linkedin.com/jobs/view/3620595381/) | Cairo | - |
+|[National Bank of Egypt - Multiple Positions](https://www.nbe.com.eg/NBE/E/#/AR/HRApplications) | Cairo | - |
 |[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | - |
 |[Blink22](https://blink22.com/) | Cairo | - |
 |[The Sparks Foundation - GRIP](https://internship.thesparksfoundation.info/#steps-to-apply)|Remote|-|
