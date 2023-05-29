@@ -44,24 +44,26 @@ Application Deadline: Add a date if available
 <!-- ################################################################# -->
 <!-- START OF TABLE -->
 
-| Name  |  Location |  Time | Application Deadline |
-|---|---|-------------|--|
-|[Google - Multiple Internships](https://careers.google.com/jobs/results/?degree=BACHELORS&distance=50&employment_type=INTERN)|-|-|-|
-|[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | - | - |
-|[Blink22](https://blink22.com/) | Cairo | - | - |
-|[MaxAB - Backend Intern](https://careers.maxab.io/p/fe62b37ca71d-edge-internship-program-backend-development) | Cairo | - | - |
-|[MaxAB - Frontend Intern](https://careers.maxab.io/p/70bc6e9293a8-edge-internship-program-frontend-development) | Cairo | - | - |
-|[The Sparks Foundation - GRIP](https://internship.thesparksfoundation.info/#steps-to-apply)|Remote|-|-|
-|[Amazon - SWE Intern](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)|Cairo|Summer '23|-|  
-|[Orange - Multiple Internships](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0)|Cairo(Remote)|Summer '23|-|
-|[MLH Fellowship](https://fellowship.mlh.io/)|USA(Remote)|Summer '23| - |
-|[Corporatica - ML Intern](https://www.linkedin.com/feed/update/urn:li:activity:6942460499934482436/)|Remote|Summer '23|-|
-|[Corporatica - SWE Intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM)|Remote|Summer '23|-|
-|[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | - | - |
-|[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| Cairo | - | - |
-|[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | - | - |
-|[LeetCode - Full stack Intern](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)|-|Summer '23|-|
-|[Open-Source Internship Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)|-|-|-|
+| Name  |  Location | More Info |
+|---|---|--|
+|[Google - Multiple Internships](https://careers.google.com/jobs/results/?degree=BACHELORS&distance=50&employment_type=INTERN)|-|-|
+|[Synapse Analytics - Multiple Positions](https://synapseanalytics.recruitee.com) | - | - |
+|[Coformatique - Multiple Interns](https://coformatique.zohorecruit.com/jobs/Careers) | - | - |
+|[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | - |
+|[Blink22](https://blink22.com/) | Cairo | - |
+|[The Sparks Foundation - GRIP](https://internship.thesparksfoundation.info/#steps-to-apply)|Remote|-|
+|[Amazon - SWE Intern](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)|Cairo| - |  
+|[Orange - Multiple Internships](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0)|Cairo(Remote)|-|
+|[MLH Fellowship](https://fellowship.mlh.io/)|USA(Remote)| - |
+|[Advansys](https://www.linkedin.com/posts/advansys-esc_advansys-is-delighted-to-announce-the-launch-activity-7066730130269704192-lCNf?utm_source=share&utm_medium=member_desktop) | - | - |
+|[Alexandria For Programming - Backend Intern](https://wuzzuf.net/internship/mMfiM2JMG3O1-Node-JS-Developer---internship---remotely-Alexandria-For-Programming-Alexandria-Egypt?o=21&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | - | Junior Level / Fresh Grad |
+|[Alexandria For Programming - Frontend Intern](https://wuzzuf.net/internship/mxwed72WT420-React-JS-Developer---Internship-Remotely-Alexandria-For-Programming-Alexandria-Egypt?o=22&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Junior Level / Fresh Grad|
+|[Data Science Hub - Data Science Research](https://docs.google.com/forms/d/e/1FAIpQLSewvsV_blQdHIbFuRMWnrxCeyROolzEQ-mpOsmlwK9SFmCi5Q/viewform?fbzx=3768006386583190091) | - | - |
+|[Dell - Multiple Interns](http://bitly.ws/EETR) | Cairo | - |
+|[Dsquares - .Net Dev, Testing, Data Analyst, ML](https://dsquares.recruitee.com/o/dsquares-juniors-unlock-your-potential-summer-internship-program) | Cairo | - |
+|[Emarat Al-Ard reseach Insitute - Data Analysts Intern](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | - |
+|[El-Sewedy Electric](https://www.linkedin.com/posts/elsewedyelectric_elsewedyelectric-empoweringgenerations-elsewedyelectricsummerinternship-activity-7065239141243920384-EFxy?utm_source=share&utm_medium=member_desktop) | Cairo | General IT and Technology |
+|[Open-Source Internship Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)|-|-|
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
 </details>
