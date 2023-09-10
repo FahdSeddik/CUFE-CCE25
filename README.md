@@ -48,43 +48,13 @@ Application Deadline: Add a date if available
 |---|---|--|
 |[Internship Google Doc Sheet](https://docs.google.com/document/u/1/d/1gGqoqbfllCDSLWIR_1FIlPJEO7Y0e30AL-jyu3pcc-0/mobilebasic) | - | Contains Internship links for all internship positions 100+ |
 |[Internship Excel Sheet](https://docs.google.com/spreadsheets/d/1eU__AI8QbAp8Ze0HmrKvp44N1SZe9gz5miI-FYUC_-E/edit#gid=0) | - | Contains Internship links collected from GUC Job Fair |
-|[Advansys - Internship Program](https://www.linkedin.com/posts/advansys-esc_advansys-is-delighted-to-announce-the-launch-activity-7066730130269704192-lCNf/?utm_source=share&utm_medium=member_android) | - | - |
-|[P&G - Multiple Internships](https://www.pgcareers.com/?fbclid=IwAR25H-hETjEwCFpUdKrr68hlKDZjW6zxuSsnmgbVr5_5BsgFliy3cLF0230) | - | - |
-|[ITIDA - Multiple Internships](https://www.itida.gov.eg/arabic/Programs/StudentSummerTraining/Pages/default.aspx?fbclid=IwAR2WZAhgkwe52v078mSRamYM1xX9xsQKsSw_fQ0jbLNnFE640YoSRAa2vdU) | Cairo | - |
-|[Dsquares - Summer Program](https://dsquares.recruitee.com/o/dsquares-juniors-unlock-your-potential-summer-internship-program/c/new?source=LinkedIn) | Cairo | - |
-|[iNetwork - Summer Program](https://www.linkedin.com/feed/update/urn:li:activity:7063834685923110912/) | - | - |
-|[Nokia](https://www.linkedin.com/jobs/view/3609473219/) | Cairo | 3-month Fresh Graduates Internship | 
-|[MOZN.AI - IT Support Intern](https://apply.workable.com/mozn-ai/j/FE2C1ADEDB/) | Saudi Arabia | - |
-|[MOZN.AI - CyberSecurity Intern](https://apply.workable.com/mozn-ai/j/E08E7F4243/) | Saudi Arabia | - |
-|[MOZN.AI - Data Science Intern](https://apply.workable.com/mozn-ai/j/CFBE17AE6D/) | Saudi Arabia | - |
 |[Google - Multiple Internships](https://careers.google.com/jobs/results/?degree=BACHELORS&distance=50&employment_type=INTERN)|-|-|
-|[Synapse Analytics - Multiple Positions](https://synapseanalytics.recruitee.com) | Cairo | - |
-|[Coformatique - Multiple Interns](https://coformatique.zohorecruit.com/jobs/Careers) | - | - |
-|[VOIS - Explore Youth Internship](https://opportunities.vodafone.com/job/Cairo-Explore-Youth-Internship-_VOIS/937998701/) | Cairo | - |
-|[Banque du Caire  - Summer Intern](https://www.linkedin.com/jobs/view/3620595381/) | Cairo | - |
-|[National Bank of Egypt - Multiple Positions](https://www.nbe.com.eg/NBE/E/#/AR/HRApplications) | Cairo | - |
-|[Atomica](https://careers.atomica.ai/job/c-software-engineer-internship/) | Remote | - |
-|[Blink22](https://blink22.com/) | Cairo | - |
 |[The Sparks Foundation - GRIP](https://internship.thesparksfoundation.info/#steps-to-apply)|Remote|-|
-|[Amazon - SWE Intern](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)|Cairo| - |  
-|[Orange - Multiple Internships](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0)|Cairo(Remote)|-|
 |[MLH Fellowship](https://fellowship.mlh.io/)|USA(Remote)| - |
-|[Advansys](https://www.linkedin.com/posts/advansys-esc_advansys-is-delighted-to-announce-the-launch-activity-7066730130269704192-lCNf?utm_source=share&utm_medium=member_desktop) | - | - |
-|[Alexandria For Programming - Backend Intern](https://wuzzuf.net/internship/mMfiM2JMG3O1-Node-JS-Developer---internship---remotely-Alexandria-For-Programming-Alexandria-Egypt?o=21&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | - | Junior Level / Fresh Grad |
-|[Alexandria For Programming - Frontend Intern](https://wuzzuf.net/internship/mxwed72WT420-React-JS-Developer---Internship-Remotely-Alexandria-For-Programming-Alexandria-Egypt?o=22&l=sp&t=sj&a=internship%7Csearch-v3%7Cnavbl&s=31562264) | Remote | Junior Level / Fresh Grad|
-|[Data Science Hub - Data Science Research](https://docs.google.com/forms/d/e/1FAIpQLSewvsV_blQdHIbFuRMWnrxCeyROolzEQ-mpOsmlwK9SFmCi5Q/viewform?fbzx=3768006386583190091) | - | - |
-|[Dell - Multiple Interns](http://bitly.ws/EETR) | Cairo | - |
-|[Dsquares - .Net Dev, Testing, Data Analyst, ML](https://dsquares.recruitee.com/o/dsquares-juniors-unlock-your-potential-summer-internship-program) | Cairo | - |
-|[Emarat Al-Ard reseach Insitute - Data Analysts Intern](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | - |
-|[El-Sewedy Electric](https://www.linkedin.com/posts/elsewedyelectric_elsewedyelectric-empoweringgenerations-elsewedyelectricsummerinternship-activity-7065239141243920384-EFxy?utm_source=share&utm_medium=member_desktop) | Cairo | General IT and Technology |
 |[Open-Source Internship Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)|-|-|
 <!-- END OF TABLE -->
 <!-- ################################################################# -->
 </details>
-
-
-
-
 
 ## Roadmaps
 Roadmaps in each field. You can use them as a guide to learn the required skills for each internship.  
