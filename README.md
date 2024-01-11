@@ -46,6 +46,7 @@ Application Deadline: Add a date if available
 
 | Name  |  Location | More Info |
 |---|---|--|
+|[Microsoft EDC Internship](http://msft.it/6041iW5pD)| Cairo |-|
 |[Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)| Multiple | Constantly updated repo with Summer2024 internships |
 |[Internship Google Doc Sheet](https://docs.google.com/document/u/1/d/1gGqoqbfllCDSLWIR_1FIlPJEO7Y0e30AL-jyu3pcc-0/mobilebasic) | - | Contains Internship links for all internship positions 100+ |
 |[Internship Excel Sheet](https://docs.google.com/spreadsheets/d/1eU__AI8QbAp8Ze0HmrKvp44N1SZe9gz5miI-FYUC_-E/edit#gid=0) | - | Contains Internship links collected from GUC Job Fair |
